@@ -36,6 +36,10 @@ Para este experimento utilizamos los siguientes materiales:
 ![WhatsApp Image 2024-03-06 at 12 59 34 PM (1)](https://github.com/mayerllyyo/experimento-de-la-doble-rendija/assets/148714449/ddedef7e-ff32-4861-99bb-61c3556b9f9f)
 
 
+https://github.com/mayerllyyo/experimento-de-la-doble-rendija/assets/148714449/6633bd2a-7b25-49fb-95d8-384bc65dbd57
+
+
+
 ## Explicación
 ### Experimento Clásico de la Doble Rendija:
 En el experimento clásico de la doble rendija, se tiene una fuente de partículas (por ejemplo, partículas de luz o canicas) que se disparan hacia una barrera con dos rendijas. Detrás de la barrera, hay una pantalla receptora que registra las partículas que llegan.
