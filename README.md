@@ -31,4 +31,7 @@ En el experimento clásico de la doble rendija, se tiene una fuente de partícul
 - Otra Rendija Abierta: En un segundo experimento, se cierra la rendija que estaba abierta previamente y se abre la otra rendija. Ahora, las partículas pasan a través de la segunda rendija y crean un patrón de impacto en la pantalla receptora que corresponde a la segunda rendija.
 
 - Ambas Rendijas Abiertas: En el tercer experimento, ambas rendijas están abiertas al mismo tiempo. Aquí es donde ocurre algo interesante. En lugar de ver la suma de los patrones de impacto de los dos experimentos anteriores, se observa un patrón de interferencia, similar a las crestas y valles en una onda. Las partículas parecen comportarse como ondas y muestran una interferencia constructiva y destructiva en la pantalla receptora, lo que resulta en un patrón de franjas alternas brillantes y oscuras.
-#AUTORAS
+  
+# AUTORAS
+- Natalia Espitia Espinel
+- Mayerlly Suarez Correa
