@@ -11,6 +11,7 @@ Este resultado es inexplicable si la luz estuviera formada por partículas porqu
 El experimento de la doble rendija es de gran importancia en el campo de la física y la comprensión de la naturaleza fundamental de la materia y la luz por diversos motivos:
 En primer lugar, demuestra la dualidad onda-partícula de las partículas subatómicas, como electrones y fotones, mostrando que las partículas pueden exhibir tanto comportamiento de partícula como de onda. Esto desafía la noción clásica de que las partículas son entidades sólidas y puntuales y nos lleva a una comprensión más profunda de la naturaleza cuántica de la realidad.
 Este experimento es un pilar fundamental en la teoría cuántica, ayudando a establecer los conceptos fundamentales de la superposición, la interferencia y la probabilidad en el mundo subatómico. Además, proporciona evidencia experimental de que las partículas subatómicas no siguen las mismas reglas que los objetos macroscópicos y nos lleva a una nueva descripción de la realidad basada en las leyes cuánticas.
+![WhatsApp Image 2024-03-06 at 12 50 35 PM](https://github.com/mayerllyyo/experimento-de-la-doble-rendija/assets/148714449/f3462936-0907-42d7-b82f-9455c9c639b4)
 
 ### Materiales:
 Para este experimento utilizamos los siguientes materiales:
