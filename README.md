@@ -21,8 +21,17 @@ Para este experimento utilizamos los siguientes materiales:
 - Dos palitos del juego "Jenga"
 - Cuchillas punta de lanza.
 - Cinta
+### Montaje experimental:
+- Tomamos el láser y lo pegamos con cinta a uno de los palitos del juego jenga para determinar la altura a la que se encontrará el laser.
+- Teniendo en cuenta la altura tomamos un liston de balso el cual cuenta con las siguientes dimensiones 5cm de ancho x 5cm de alto x 0.4 cm de profundo y realizamos cortes formando un cuadrado en el centro del listón; esta ranura cuenta con las siguientes dimensiones 2cm de ancho x 2cm de largo x 0.4 cm de profundo.
+- Con ayuda de las cuchillas punta de lanza cortamos un trozo de papel aluminio en forma de cuadrado el cual cubrirá por completo la ranura hecha en el liston; seguido de esto calculando el centro del trozo del papel aluminio realizamos dos pequeños cortes muy finos los cuales se encuentran separados uno del otro por cuestiones milimétricas.
+  (Para poder apreciar de mejor manera la separación se recomienda colocar el papel alumio en contra luz)
+- Pegamos el papel aluminio sobre el listón con cinta cubriendo en su totalidad el cuadrado hecho en el listón.
+- Para garantizar mejores resultados en el experimento y disminuir el error sistemático tomamos un pequeño gancho de ropa; en el momento que se coloca sobre el láser, este lo mantendrá encendido.
+- Nos ubicamos sobre una superficie uniforme, encendemos el láser, enfrente ubicamos la doble rendija hecha sobre el papel aluminio, apagamos la luz y veremos proyectado el patrón de interferencia formado.
 
 
+## Explicación
 ### Experimento Clásico de la Doble Rendija:
 En el experimento clásico de la doble rendija, se tiene una fuente de partículas (por ejemplo, partículas de luz o canicas) que se disparan hacia una barrera con dos rendijas. Detrás de la barrera, hay una pantalla receptora que registra las partículas que llegan.
 
